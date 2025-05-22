@@ -1,3 +1,3 @@
 # Analysis-of-Algorithms
 
-Compilation of projects worked on in Analysis of Algorithms course.
+Compilation of projects worked on in Analysis of Algorithms course. Primarily Java.
